@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display:flex;
+    justify-content: center;
+    padding:32px 48px;
+}
+
+ul{
+    list-style: none;
+    display:flex;
+    
+    justify-content: space-around;
+    align-items:center;
+    
+}
+
+li{
+    background-color: yellow;
+}
